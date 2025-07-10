@@ -1,0 +1,10 @@
+# Ignorar todo por defecto
+/*
+
+# No ignorar la carpeta actividades y su contenido
+!/Actividades/
+!/Actividades/**
+
+# No ignorar archivos clave
+!README.md
+!.gitignore
