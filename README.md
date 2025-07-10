@@ -8,6 +8,7 @@ Este repositorio contiene las actividades prácticas realizadas durante el curso
 
 Los notebooks están organizados por módulo dentro de la carpeta `actividades/`, siguiendo el orden del curso.
 
+```plaintext
 actividades/
 ├── modulo_02/
 │   ├── A1M2_tema.ipynb
