@@ -2,6 +2,8 @@
 
 Este repositorio contiene las actividades prácticas realizadas durante el curso de Machine Learning impartido por **Kibernum** en 2025. Cada módulo incluye notebooks con ejercicios, experimentos y evaluaciones modulares que integran los conocimientos vistos en las clases.
 
+> **De momento solo se ha trabajado en 7/12 módulos, se actualizara una vez finalice cada modulo nuevo**
+
 ---
 
 ## Estructura del repositorio
@@ -24,15 +26,8 @@ actividades/
 │   ├── A4M3_tema.ipynb
 │   ├── A5M3_tema.ipynb
 │   └── EMM3_evaluacion_modular.ipynb
-├── modulo_04/
-│   ├── A1M4_tema.ipynb
-│   ├── A2M4_tema.ipynb
-│   ├── A3M4_tema.ipynb
-│   ├── A4M4_tema.ipynb
-│   ├── A5M4_tema.ipynb
-│   └── EMM4_evaluacion_modular.ipynb
-├── modulo_05/
-│   ├── A1M5_tema.ipynb
+...
+
 ```
 ---
 
@@ -77,6 +72,34 @@ actividades/
 ### MÓDULO 5 - MODELOS AVANZADOS DE REGRESIÓN Y CLASIFICACIÓN
 
 - Técnicas Avanzadas de Regresión y Métodos Ensemble  
+- Aplicación comparativa de técnicas avanzadas de regresión
+- Comparación de métodos de Boosting y Bagging en predicción de ingresos
+- Aplicación de técnicas de validación cruzada
+- Aplicación de Regularización en Modelo de Regresión
+
+**Evaluación modular:** Interpretabilidad de Scoring Crediticio
+
+---
+
+### MÓDULO 6 - MODELOS NO SUPERVISADOS AVANZADOS
+
+- Explorando la estructura oculta de los datos con clustering jerárquico y reducción de dimensionalidad
+- Agrupando más allá de las formas: clustering con DBSCAN y DBHSCAN
+- Descubriendo estructuras ocultas: Reducción de dimensionalidad con PCA
+
+**Evaluación modular:** Segmentación y detección de anomalías en pacientes crónicos
+
+---
+
+### MÓDULO 7 - MODELOS NEURONALES MODERNOS
+
+- Clasificador de imágenes manuscrites con redes neuronales profundas
+- Del análisis al arte: procesamiento y generación de secuencias con Deep Learning
+- Reconstrucción de imágenes y eliminación de ruido usando Autoencoders
+- Transfer Learning con ResNet50 o EfficientNet para clasificación de imágenes reales
+- Entrenamiento de un modelo con técnicas de regularización y optimización
+
+**Evaluación modular:** Sistema Inteligente de Scoring Crediticio con Redes Neuronales Profundas
 
 **ESTA SECCIÓN ESTA EN DESARROLLO**
 
